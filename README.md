@@ -17,7 +17,7 @@
 ### Database Stack
 ![mysql](https://user-images.githubusercontent.com/29543374/129038194-530f2432-ef13-4361-b062-8bf3c4ac024a.png)
 ![oracle](https://user-images.githubusercontent.com/29543374/129038207-833aa3ec-b961-42ab-ae73-82cdadf22d59.png)
-![mongodb](https://user-images.githubusercontent.com/29543374/129038437-7fb3d512-1b68-42d7-bfb8-27c643d98c55.png)
+![mongodb](https://user-images.githubusercontent.com/29543374/129038577-5d83cbc6-e993-412b-9e27-c47581e8d301.png)
 
 ### Cooperation Tools
 ![jira](https://user-images.githubusercontent.com/29543374/129037974-b8af5668-f92c-4db3-bf18-f7e46f1d003a.png)
