@@ -22,7 +22,7 @@
 ### Cooperation Tools
 ![jira](https://user-images.githubusercontent.com/29543374/129037974-b8af5668-f92c-4db3-bf18-f7e46f1d003a.png)
 
-### WIRI
+### WIKI
 ![confluence](https://user-images.githubusercontent.com/29543374/129038000-fb89c973-419a-4181-8e87-9b3329cb4906.png)
 
 
