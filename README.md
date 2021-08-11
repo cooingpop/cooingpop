@@ -9,6 +9,7 @@
 ### Main Stack
 ![java](https://user-images.githubusercontent.com/29543374/129037686-8c89bf82-718c-4915-aecd-39dba00b4425.png)
 ![jquery](https://user-images.githubusercontent.com/29543374/129037733-cbee8118-9b00-42f3-b2f4-a2a8fa933d57.png)
+![javascript](https://user-images.githubusercontent.com/29543374/129038688-d73a4a65-efab-42cd-b7bf-5973d7475c8c.png)
 ![html](https://user-images.githubusercontent.com/29543374/129037571-30b91031-2e2f-4694-ac5f-fa5e3fa96c20.png)
 
 ### Sub Stack
