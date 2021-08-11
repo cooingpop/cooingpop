@@ -8,7 +8,7 @@
 ## Backend Developer
 
 ### Framework
-![spring-boot-1](https://user-images.githubusercontent.com/29543374/129039527-4b719408-6ab5-4570-911f-ca0f989492d6.jpg)
+![spring-boot-1](https://user-images.githubusercontent.com/29543374/129039527-4b719408-6ab5-4570-911f-ca0f989492d6.jpg){: width="64" height="64"}
 
 ### Main Stack
 ![java](https://user-images.githubusercontent.com/29543374/129037686-8c89bf82-718c-4915-aecd-39dba00b4425.png)
