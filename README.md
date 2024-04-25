@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joonyeong-park-b0a042146)
 
 ## Backend Developer
+### Skill
+Restful API, Webflux, Multi Thread, asynchronous service api
 
 ### Framework
 ![spring-boot](https://user-images.githubusercontent.com/29543374/129040028-b8bef078-8eae-4b86-ba95-c4a69d1ef9d2.jpg)
